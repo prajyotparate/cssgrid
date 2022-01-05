@@ -1,0 +1,24 @@
+.box
+{
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: orangered;
+    animation-name: moving;
+    animation-duration:3s;
+    animation-delay: 3s;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+}
+@keyframes moving
+{
+    0%{
+
+    }
+    50%{
+
+    }
+    100%{
+        
+    }
+}
